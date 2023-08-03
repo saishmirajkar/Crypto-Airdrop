@@ -1,4 +1,4 @@
-# ERC20 Airdrop
+# Crypto Airdrop
 
 ## Table of Contents
 
